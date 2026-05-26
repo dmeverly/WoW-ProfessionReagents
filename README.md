@@ -9,6 +9,8 @@ Copyright © 2026 David Everly
 
 A nice flowchart of reagent flow through select professions in World of Warcraft: Midnight
 
+[Reagent Flowsheet Diagram](./reagent-flow.md)
+
 ## Purpose
 
 This was a casual project aimed at:
